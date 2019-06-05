@@ -18,6 +18,9 @@ class ViewController: UIViewController {
     func testMe(){
         
         print ("avi tuby")
+        
+    }
+    
     func TryMe1() {
         print ("Don't Try me")
     }
